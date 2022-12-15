@@ -1,0 +1,59 @@
+LOCUS       X80721                  1448 bp    DNA     linear   BCT 29-MAR-1996
+DEFINITION  E.coli rrnA gene.
+ACCESSION   X80721
+VERSION     X80721.1
+KEYWORDS    16S ribosomal RNA; 16S rRNA gene; 16S small subunit ribosomal RNA.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Cilia,V., Lafay,B. and Christen,R.
+  TITLE     Sequence heterogeneities among 16S ribosomal RNA sequences, and
+            their effect on phylogenetic analyses at the species level
+  JOURNAL   Mol. Biol. Evol. 13 (3), 451-461 (1996)
+   PUBMED   8742634
+REFERENCE   2  (bases 1 to 1448)
+  AUTHORS   Lafay,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUL-1994) B. Lafay, CNRS & Universite Paris 6,
+            Station Zoologique, Observatoire Oceanologique, Villefranche Sur
+            Mer, 06230, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..1448
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="PK3"
+                     /db_xref="taxon:562"
+     gene            1..1448
+                     /gene="rrnA"
+     rRNA            1..1448
+                     /gene="rrnA"
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gtttgatcat ggctcagatt gaacgctggc ggcaggccta acacatgcaa gtcgaacggt
+       61 aacaggaaga agcttgcttc tttgctgacg agtggcggac gggtgagtaa tgtctgggaa
+      121 actgcctgat ggagggggat aactactgga aacggtagct aataccgcat aacgtcgcaa
+      181 gaccaaagag ggggaccttc gggcctcttg ccatcggatg tgcccagatg ggattagcta
+      241 gtaggtgggg taacggctca cctaggcgac gatccctagc tggtctgaga ggatgaccag
+      301 ccacactgga actgagacac ggtccagact cctacgggag gcagcagtgg ggaatattgc
+      361 acaatgggcg caagcctgat gcagccatgc cgcgtgtatg aagaaggcct tcgggttgta
+      421 aagtactttc agcggggagg aagggagtaa agttaatacc tttgctcatt gacgttaccc
+      481 gcagaagaag caccggctaa ctccgtgcca gcagccgcgg taatacggag ggtgcaagcg
+      541 ttaatcggaa ttactgggcg taaagcgcac gcaggcggtt tgttaagtca gatgtgaaat
+      601 ccccgggctc aacctgggaa ctgcatctga tactggcaag cttgagtctc gtagaggggg
+      661 gtagaattcc aggtgtagcg gtgaaatgcg tagagatctg gaggaatacc ggtggcgaag
+      721 gcggccccct ggacgaagac tgacgctcag gtgcgaaagc gtggggagca aacaggatta
+      781 gataccctgg tagtccacgc cgtaaacgat gtcgacttgg aggttgtgcc cttgaggcgt
+      841 ggcttccgga nntaacgcgt taagtcgacc gcctggggag tacggccgca aggttaaaac
+      901 tcaaatgaat tgacgggggc cgcacaagcg gtggagcatg tggtttaatt cgatgcaacg
+      961 cgaagaacct tacctggtct tgacatccac ggaagttttc agagatgaga atgtgccttc
+     1021 gggaaccgtg agacaggtgc tgcatggctg tcgtcagctc gtgttgtgaa atgttgggtt
+     1081 aagtcccgca acgagcgcaa cccttatcct ttgttgccag cggtccggcc gggaactcaa
+     1141 aggagactgc cagtgataaa ctggaggaag gtggggatga cgtcaagtca tcatggccct
+     1201 tacgaccagg gctacacacg tgctacaatg gcgcatacaa agagaagcga cctcgcgaga
+     1261 gcaagcggac ctcataaagt gcgtcgtagt ccggattgga gtctgcaact cgactccatg
+     1321 aagtcggaat cgctagtaat cgtggatcag aatgccacgg tgaatacgtt cccgggcctt
+     1381 gtacacaccg cccgtcacac catgggagtg ggttgcaaaa gaagtaggta gcttaacttc
+     1441 gggagggc
+//
